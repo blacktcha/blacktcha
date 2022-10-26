@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="style.css">
 <body>
     <marquee behavior="alternate" scrollamount="30">
         <marquee behavior="alternate" scrollamount="30" direction="down">
